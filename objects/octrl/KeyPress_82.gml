@@ -1,0 +1,1 @@
+room_restart() //Restarts the level if R is pressed.

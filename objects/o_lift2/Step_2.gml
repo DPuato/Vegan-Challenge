@@ -1,0 +1,1 @@
+if canMove {myImageIndex+=0.1}

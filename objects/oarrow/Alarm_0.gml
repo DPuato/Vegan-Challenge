@@ -1,0 +1,1 @@
+hurt=false //This object is not hurt anymore.

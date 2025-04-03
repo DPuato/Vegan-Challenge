@@ -1,0 +1,1 @@
+movLad=0; //Stop moving.

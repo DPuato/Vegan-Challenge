@@ -1,0 +1,1 @@
+if !die {(instance_create_depth(x+(myDir*70),y-40,0,oEFishSpit)).myDir=myDir} //This creates the spit and makes it follow the player.

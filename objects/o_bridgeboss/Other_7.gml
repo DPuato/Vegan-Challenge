@@ -1,0 +1,2 @@
+sprite_index=s_bridgeMask2;
+image_index=image_number-1

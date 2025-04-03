@@ -1,0 +1,1 @@
+if on {myImageIndex+=0.1}

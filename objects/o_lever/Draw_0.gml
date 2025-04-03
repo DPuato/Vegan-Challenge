@@ -1,0 +1,1 @@
+if on {draw_sprite(fatman_lift,myImageIndex,x-25,y-40)} else {draw_self()}

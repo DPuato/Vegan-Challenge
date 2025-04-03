@@ -1,0 +1,1 @@
+if on {instance_create_depth(x,y,0,oArrow2); instance_destroy()}

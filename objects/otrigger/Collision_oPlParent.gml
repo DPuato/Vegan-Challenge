@@ -1,0 +1,1 @@
+on=true //If there is collision with the player, turn on.

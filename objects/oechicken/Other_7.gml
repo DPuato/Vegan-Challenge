@@ -1,0 +1,1 @@
+if die {image_index=image_number-1} //If the animation that plays when this object dies ends, it stops the animation at the last frame.

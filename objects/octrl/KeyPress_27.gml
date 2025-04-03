@@ -1,0 +1,1 @@
+room_goto(s_menu) //Returns to the menu room if Esc is pressed.

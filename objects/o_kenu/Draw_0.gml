@@ -1,0 +1,1 @@
+if on {draw_sprite_ext(fatman_rowing,myImageIndex,x+5,y-35,image_xscale,1,0,c_white,1)} else {draw_self()}

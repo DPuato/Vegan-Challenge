@@ -1,0 +1,1 @@
+instance_deactivate_all(true); //This pauses the game by deactivating everything in the game with the only exeption being this object (oStartup), if true is set to false, it would also deactivate oStartup.
